@@ -1,0 +1,132 @@
+h1{
+	color:#000066;
+	letter-spacing: 2px;
+}
+
+h2{
+	color:#800000;
+	letter-spacing: 2px;
+}
+
+body
+{
+	background-image: url(images/papier.jpg);
+}
+
+.linkedin {
+	display: block;
+	width: 60px;
+	margin: 0px auto;
+	margin-right: 4px;
+}
+
+.twitter {
+	display: block;
+	width: 60px;
+	margin: 2px auto;
+	margin-right: 0px;
+}
+
+.dipl_form {
+	display: block;
+	background-color: #dadada;
+	width: 400px;
+	height: 250px;
+	border-radius: 20px;
+	margin: 0px auto;
+	position: relative;
+	margin-bottom: 20px; 
+}
+
+.dipl_form h1 {
+	display: block;
+	position: absolute;
+	color: green;
+	text-align: center;
+	top: 0px;
+	margin: 10px auto;
+	right: 15px;
+	font-style: italic;
+}
+
+.dipl_form p {
+	display: block;
+	position: absolute;
+	color: black;
+	bottom: 70px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: comic sans ms;
+}
+
+.exp_pro {
+	display: block;
+	background-color: #dadada;
+	width: 400px;
+	height: 250px;
+	border-radius: 20px;
+	margin: 0px auto;
+	position: relative;
+	margin-bottom: 20px;
+}
+
+.exp_pro h1 {
+	display: block;
+	position: absolute;
+	color:green;
+	text-align: center;
+	margin: 0px auto;
+	margin-left: 15px;
+	font-style: italic;
+}
+
+.exp_pro p {
+	display: block;
+	position: absolute;
+	color: black;
+	bottom: 12px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: comic sans ms;
+}
+
+.competences {
+	display: block;
+	background-color: #dadada;
+	width: 400px;
+	height: 250px;
+	border-radius: 20px;
+	margin: 0px auto;
+	position: relative;
+}
+
+.competences h1 {
+	display: block;
+	position: absolute;
+	color:green;
+	text-align: center;
+	margin: 0px auto;
+	margin-left: 60px;
+	font-style: italic;
+}
+
+.competences p {
+	display: block;
+	position: absolute;
+	color: black;
+	bottom: 70px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: comic sans ms;
+}
+
+.banniere {
+	display: block;
+	width: 100%;
+	height: 170px;
+	background-image: url(images/triangle.jpg);
+}
+
+
+
+
